@@ -16,4 +16,4 @@ puts "How many nights would you like to stay?"
 nights = gets.chomp.capitalize
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "You will stay at #{stay}, eat at #{eats}, visit #{sites} and stay for #{nights} nights."
+puts "You will stay at #{stay}, eat at #{eat}, visit #{sites} and stay for #{nights} nights."
